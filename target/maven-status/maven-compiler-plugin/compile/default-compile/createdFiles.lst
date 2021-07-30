@@ -3,7 +3,7 @@ com/community/communityback/controller/BoardController.class
 com/community/communityback/dto/Board/BoardListDTO$BoardListDTOBuilder.class
 com/community/communityback/handler/GlobalExceptionHandler.class
 com/community/communityback/config/jwt/JwtAuthorizationFilter.class
-com/community/communityback/controller/UserController.class
+com/community/communityback/config/CorsConfig.class
 com/community/communityback/config/SecurityConfig.class
 com/community/communityback/repository/BoardFileRepository.class
 com/community/communityback/dto/Board/ErrorResponseDTO.class
@@ -27,10 +27,8 @@ com/community/communityback/model/UserInterest$UserInterestBuilder.class
 com/community/communityback/model/Reply.class
 com/community/communityback/service/BoardService.class
 com/community/communityback/model/ProviderType.class
-com/community/communityback/controller/api/ApiUserController.class
 com/community/communityback/model/Board$BoardBuilder.class
 com/community/communityback/model/Board.class
-com/community/communityback/service/UserService.class
 com/community/communityback/repository/RecommendBoardRepository.class
 com/community/communityback/model/User$UserBuilder.class
 com/community/communityback/model/RecommendBoard.class
