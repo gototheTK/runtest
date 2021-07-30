@@ -1,4 +1,5 @@
 com/community/communityback/dto/Board/BoardResponseDTO.class
+com/community/communityback/controller/BoardController.class
 com/community/communityback/dto/Board/BoardListDTO$BoardListDTOBuilder.class
 com/community/communityback/handler/GlobalExceptionHandler.class
 com/community/communityback/config/jwt/JwtAuthorizationFilter.class
@@ -25,6 +26,7 @@ com/community/communityback/model/User.class
 com/community/communityback/config/auth/PrincipalDetails.class
 com/community/communityback/model/UserInterest$UserInterestBuilder.class
 com/community/communityback/model/Reply.class
+com/community/communityback/service/BoardService.class
 com/community/communityback/model/ProviderType.class
 com/community/communityback/controller/api/ApiUserController.class
 com/community/communityback/model/Board$BoardBuilder.class
@@ -37,6 +39,7 @@ com/community/communityback/config/auth/PrincipalDetailsService.class
 com/community/communityback/handler/FileHandler.class
 com/community/communityback/model/BoardFile.class
 com/community/communityback/dto/Board/BoardResponseDTO$BoardResponseDTOBuilder.class
+com/community/communityback/controller/api/ApiBoardController.class
 com/community/communityback/dto/User/UserDto.class
 com/community/communityback/dto/Board/BoardModifyDTO.class
 com/community/communityback/model/Interest.class
