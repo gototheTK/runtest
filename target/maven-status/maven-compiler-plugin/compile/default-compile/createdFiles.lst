@@ -3,6 +3,7 @@ com/community/communityback/controller/BoardController.class
 com/community/communityback/dto/Board/BoardListDTO$BoardListDTOBuilder.class
 com/community/communityback/handler/GlobalExceptionHandler.class
 com/community/communityback/config/jwt/JwtAuthorizationFilter.class
+com/community/communityback/config/CorsConfig.class
 com/community/communityback/controller/UserController.class
 com/community/communityback/config/SecurityConfig.class
 com/community/communityback/repository/BoardFileRepository.class
